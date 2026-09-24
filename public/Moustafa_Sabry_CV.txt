@@ -1,0 +1,74 @@
+================================================================================
+MOUSTAFA MOHAMED SABRY
+Backend & Full-Stack Developer
+Cairo, Egypt | moustafasabry2002@gmail.com
+================================================================================
+
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Computer Science graduate with strong experience in backend and full-stack web
+development, specializing in Node.js, Express.js, MongoDB, and RESTful APIs.
+Experienced in building secure applications using JWT authentication and integrating
+Angular frontends.
+
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+Modern Academy, Cairo, Egypt (2021 – 2025)
+Cumulative GPA: 3.33 / 4.0
+
+PROFESSIONAL TRAINING
+--------------------------------------------------------------------------------
+MEAN Stack Diploma (300+ Hours)
+National Telecommunication Institute (NTI)
+- Comprehensive hands-on program focusing on MongoDB, Express.js, Angular, Node.js.
+- Developed RESTful APIs, JWT authentication, and role-based access control.
+- Built multiple Angular projects, portfolio applications, dashboards, dynamic UI
+  components, and a full-featured e-commerce platform.
+
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+Backend: Node.js, Express.js, NestJS, REST APIs, JWT Authentication, Mongoose
+Databases: MongoDB, MySQL
+Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3
+Languages: JavaScript, TypeScript, Python, Java
+Tools: Git, GitHub, Postman, Swagger (OpenAPI)
+
+FEATURED PROJECTS
+--------------------------------------------------------------------------------
+1. E-Commerce Website (MEAN Stack)
+   - Technologies: Angular, Node.js, Express.js, MongoDB, JWT
+   - Built a full-stack e-commerce platform with Angular frontend, product pages,
+     filtering, cart functionality, and an admin dashboard. Integrated frontend
+     with Express/MongoDB APIs and implemented JWT authentication.
+
+2. Hotel Management System API (NestJS / MongoDB)
+   - Technologies: NestJS, TypeScript, MongoDB, Mongoose, JWT, Swagger, Postman
+   - Developed a modular hotel management REST API with authentication, role-based
+     authorization, validation, and structured MongoDB schemas.
+   - Modules: User management, Rooms, Bookings, Offers, Reviews, Favourites, Facilities.
+
+3. Food Management REST API (Node.js / Express.js)
+   - Technologies: Node.js, Express.js, MongoDB, Mongoose, JWT, Joi
+   - Developed a RESTful food management API with secure authentication, role-based
+     authorization, validation, password hashing, and OTP-based email verification.
+   - Deployed using Vercel & MongoDB Atlas.
+
+4. Portfolio Website (MEAN Stack)
+   - Technologies: Angular, Node.js, Express.js, MongoDB
+   - Built a responsive Angular portfolio using reusable components and a clean
+     UI structure, supported by a RESTful backend using Express.js and MongoDB.
+
+CERTIFICATIONS
+--------------------------------------------------------------------------------
+- Introduction to Back-End Development (Meta)
+- Introduction to Databases for Back-End Development (Meta)
+- Programming in Python (Meta)
+- Foundational Development Challenger Track (EGYFWD)
+
+ACTIVITIES & PROBLEM SOLVING
+--------------------------------------------------------------------------------
+Modern Academy ECPC Team (2022 – 2023)
+- 150+ Problems Solved on LeetCode, Codeforces, and HackerRank.
+- Strengthened data structures, algorithms, problem solving, and performance optimization.
+================================================================================
